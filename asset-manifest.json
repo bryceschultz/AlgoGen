@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/AlgoGen/static/css/main.a19dc030.chunk.css",
-    "main.js": "/AlgoGen/static/js/main.1bf6cc64.chunk.js",
-    "main.js.map": "/AlgoGen/static/js/main.1bf6cc64.chunk.js.map",
-    "runtime-main.js": "/AlgoGen/static/js/runtime-main.04d7d7fa.js",
-    "runtime-main.js.map": "/AlgoGen/static/js/runtime-main.04d7d7fa.js.map",
-    "static/css/2.c7543e52.chunk.css": "/AlgoGen/static/css/2.c7543e52.chunk.css",
-    "static/js/2.12134b4f.chunk.js": "/AlgoGen/static/js/2.12134b4f.chunk.js",
-    "static/js/2.12134b4f.chunk.js.map": "/AlgoGen/static/js/2.12134b4f.chunk.js.map",
-    "static/js/3.1651e169.chunk.js": "/AlgoGen/static/js/3.1651e169.chunk.js",
-    "static/js/3.1651e169.chunk.js.map": "/AlgoGen/static/js/3.1651e169.chunk.js.map",
+    "main.css": "/AlgoGen/static/css/main.4c3b1f36.chunk.css",
+    "main.js": "/AlgoGen/static/js/main.68a7f774.chunk.js",
+    "main.js.map": "/AlgoGen/static/js/main.68a7f774.chunk.js.map",
+    "runtime-main.js": "/AlgoGen/static/js/runtime-main.f745d3ec.js",
+    "runtime-main.js.map": "/AlgoGen/static/js/runtime-main.f745d3ec.js.map",
+    "static/css/2.83a79fa7.chunk.css": "/AlgoGen/static/css/2.83a79fa7.chunk.css",
+    "static/js/2.ae65de0b.chunk.js": "/AlgoGen/static/js/2.ae65de0b.chunk.js",
+    "static/js/2.ae65de0b.chunk.js.map": "/AlgoGen/static/js/2.ae65de0b.chunk.js.map",
+    "static/js/3.344a9e90.chunk.js": "/AlgoGen/static/js/3.344a9e90.chunk.js",
+    "static/js/3.344a9e90.chunk.js.map": "/AlgoGen/static/js/3.344a9e90.chunk.js.map",
     "index.html": "/AlgoGen/index.html",
-    "static/css/2.c7543e52.chunk.css.map": "/AlgoGen/static/css/2.c7543e52.chunk.css.map",
-    "static/css/main.a19dc030.chunk.css.map": "/AlgoGen/static/css/main.a19dc030.chunk.css.map",
-    "static/js/2.12134b4f.chunk.js.LICENSE.txt": "/AlgoGen/static/js/2.12134b4f.chunk.js.LICENSE.txt"
+    "static/css/2.83a79fa7.chunk.css.map": "/AlgoGen/static/css/2.83a79fa7.chunk.css.map",
+    "static/css/main.4c3b1f36.chunk.css.map": "/AlgoGen/static/css/main.4c3b1f36.chunk.css.map",
+    "static/js/2.ae65de0b.chunk.js.LICENSE.txt": "/AlgoGen/static/js/2.ae65de0b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.04d7d7fa.js",
-    "static/css/2.c7543e52.chunk.css",
-    "static/js/2.12134b4f.chunk.js",
-    "static/css/main.a19dc030.chunk.css",
-    "static/js/main.1bf6cc64.chunk.js"
+    "static/js/runtime-main.f745d3ec.js",
+    "static/css/2.83a79fa7.chunk.css",
+    "static/js/2.ae65de0b.chunk.js",
+    "static/css/main.4c3b1f36.chunk.css",
+    "static/js/main.68a7f774.chunk.js"
   ]
 }
