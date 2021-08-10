@@ -2,9 +2,8 @@
 
 ## Using the app
 
-To use the app go to https://bryceschultz.github.io/AlgoGenPostBuild
-The app allows 
-first time users to easily create an ASA without writing/interpreting any code
+### To use the app go to https://bryceschultz.github.io/AlgoGenPostBuild
+### The app allows first time users to easily create an ASA without writing/interpreting any code
 
 ## Creating a local copy
 
