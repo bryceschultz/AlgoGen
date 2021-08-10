@@ -1,0 +1,220 @@
+@import '~antd/dist/antd.css';
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300&display=swap');
+
+body {
+  background: #0e101c;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  padding: 0 20px;
+  color: white
+}
+
+form {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h1 {
+  margin-top: 80px;
+  font-weight: 100;
+  text-align: center;
+  padding-bottom: 10px;
+  border-bottom: 1px solid rgb(79, 98, 148);
+}
+
+.form {
+  background: #0e101c;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+input {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  border-radius: 4px;
+  border: 1px solid white;
+  padding: 10px 15px;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+.materialUIInput {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  border-radius: 4px;
+  background-color: white;
+  padding: 10px 15px;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+.IceCreamType {
+  color: black;
+}
+
+label {
+  line-height: 2;
+  text-align: left;
+  display: block;
+  margin-bottom: 13px;
+  margin-top: 20px;
+  color: white;
+  font-size: 14px;
+  font-weight: 200;
+}
+
+.buttonStyled,
+input[type="submit"] {
+  background: #ec5990;
+  color: white;
+  text-transform: uppercase;
+  border: none;
+  margin-top: 40px;
+  padding: 20px;
+  font-size: 16px;
+  font-weight: 100;
+  letter-spacing: 10px;
+}
+
+.netButton {
+  color: white;
+  text-transform: uppercase;
+  border: none;
+  margin-top: 40px;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 10px;
+}
+
+.submit_button {
+  
+  appearance: none;
+  border-radius: 4px;
+  width: 100%;
+}
+
+input[type="submit"]:hover {
+  background: #bf1650;
+}
+
+input[type="button"]:active,
+input[type="submit"]:active {
+  transition: 0.3s all;
+  transform: translateY(3px);
+  border: 1px solid transparent;
+  opacity: 0.8;
+}
+
+input:disabled {
+  opacity: 0.4;
+}
+
+input[type="button"]:hover {
+  transition: 0.3s all;
+}
+
+input[type="button"],
+input[type="submit"] {
+  -webkit-appearance: none;
+}
+
+.App {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+form {
+  margin-bottom: 400px;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
+}
+
+.counter {
+  font-weight: 400;
+  background: white;
+  color: black;
+  padding: 10px 15px;
+  border-radius: 4px;
+  position: fixed;
+  top: 20px;
+  right: 20px;
+}
+
+  html, body, #root, #root>div {
+    height: 100%;
+    margin: 0;
+  }
+
+.big_sentence{
+    font-family:'Rajdhani';
+	-webkit-font-smoothing:antialiased;
+	-moz-osx-font-smoothing:grayscale;
+    font-size:7vw;
+  max-width:48vw;
+  text-align: center;
+}
+
+.input-cursor {
+      display: inline-block;
+      width: 2px;
+      height: 42px;
+      background-color: white;
+      margin-left: 8px;
+}
+
+@keyframes blink {
+    0% {opacity: 1;}
+    40% {opacity: 1;}
+    60% {opacity: 0;}
+    100% {opacity: 0;}
+  }
+
+.input-cursor { 
+  animation: blink .6s linear infinite alternate;
+}
+
+.asset_decimals { 
+  color:black;
+}
+
+.spin_div {
+  margin: 20px 0;
+  margin-bottom: 20px;
+  padding: 30px 50px;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.05);
+  border-radius: 4px;
+}
+
+#components-layout-demo-custom-trigger .trigger {
+  padding: 0 24px;
+  font-size: 18px;
+  line-height: 64px;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+#components-layout-demo-custom-trigger .trigger:hover {
+  color: #1890ff;
+}
+
+#components-layout-demo-custom-trigger .logo {
+  height: 32px;
+  margin: 16px;
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.site-layout .site-layout-background {
+  background: #0e101c;
+}
+
+.site-layout {
+  background: #0e101c;
+}
