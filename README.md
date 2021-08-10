@@ -4,9 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-To work on a local copy of the app
+To work on a local copy of the app open a cmd prompt and clone the repo
 
-### `yarn start`
+### git clone 
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
