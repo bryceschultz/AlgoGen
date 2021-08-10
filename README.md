@@ -1,5 +1,5 @@
 # Getting Started
-
+<br>
 
 ## Using the app
 
@@ -7,7 +7,7 @@
 
 The app allows first time users to easily create an ASA without writing/interpreting any code
 
-
+<br>
 ## Creating a local copy
 
 To work on a local copy of the app open a cmd prompt and clone the repo
