@@ -13,12 +13,17 @@ The app allows first time users to easily create an ASA without writing/interpre
 
 To work on a local copy of the app open a cmd prompt and clone the repo
 
-### git clone https://github.com/bryceschultz/AlgoGen.git
+```
+git clone https://github.com/bryceschultz/AlgoGen.git
+```
 
 install the dependencies using npm
 
-### npm install
+```
+npm install
+```
 
 Start the app using yarn
-
-### yarn start
+```
+yarn start
+```
