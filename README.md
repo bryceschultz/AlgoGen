@@ -11,13 +11,12 @@ The app allows first time users to easily create an ASA without writing/interpre
 
 ## Creating a local copy
 
-To work on a local copy of the app open a cmd prompt and clone the repo
+Clone the repo and cd into the directory
 
 ```
 git clone https://github.com/bryceschultz/AlgoGen.git
+cd AlgoGen
 ```
-
-install the dependencies using npm
 
 ```
 npm install
