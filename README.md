@@ -9,6 +9,12 @@ The app allows first time users to easily create an ASA without writing/interpre
 
 <br>
 
+1. Go to https://bryceschultz.github.io/AlgoGen
+2. Enter in the desired Asset Name, Unit Name, Asset Total, and Asset Decimals
+<img src="documentation-images/ASA_Config.png">
+3. Click Submit and wait for confirmation
+<img src="documentation-images/ASA_Created.png">
+
 ## Creating a local copy
 
 Clone the repo and cd into the directory
