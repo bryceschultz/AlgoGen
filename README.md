@@ -16,6 +16,7 @@ The app allows first time users to easily create an ASA without writing/interpre
 <img src="documentation-images/ASA_Created.png">
 
 <br>
+
 ## Creating a local copy
 
 Clone the repo and cd into the directory
