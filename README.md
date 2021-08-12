@@ -18,6 +18,8 @@ git clone https://github.com/bryceschultz/AlgoGen.git
 cd AlgoGen
 ```
 
+Install the required dependencies using npm
+
 ```
 npm install
 ```
