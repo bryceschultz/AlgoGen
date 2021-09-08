@@ -57,7 +57,7 @@ export const createAsset = (asset_name, unit_name, asset_total, asset_decimals) 
 const baseServer = "https://testnet-algorand.api.purestake.io/ps2";
 const port = "";
 const token = {
-    "X-API-Key": "{PUT YOUR PURESTAKE API KEY HERE}",
+    "X-API-Key": "B3SU4KcVKi94Jap2VXkK83xx38bsv95K5UZm2lab",
 };
 
 // Instantiate the algod wrapper
