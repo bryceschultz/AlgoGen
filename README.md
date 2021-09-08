@@ -32,12 +32,6 @@ Install the required dependencies using npm
 npm install
 ```
 
-Add your PureStake API key to line 60 of src/AssetConfig.js
-
-```
-"X-API-Key": "{PUT YOUR PURESTAKE API KEY HERE}",
-```
-
 Start the app using yarn
 
 ```
