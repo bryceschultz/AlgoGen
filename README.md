@@ -32,8 +32,8 @@ Install the required dependencies using npm
 npm install
 ```
 
-Start the app using yarn
+Start the app
 
 ```
-yarn start
+npm start
 ```
